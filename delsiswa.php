@@ -1,7 +1,7 @@
 <?php
 	
 //Update 9 Dec 09:47
-//by Ayu	
+//by Randy	
 	
 	require_once('lib/DBClass.php');
 	require_once('lib/m_siswa.php');
